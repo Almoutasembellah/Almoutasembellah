@@ -1,4 +1,4 @@
-### Hi there 👋 i am Almoutasem bellah a jounior Machine learning engineer
+### Hi there 👋 i am Almoutasem bellah a junior Machine learning engineer
 - 🔭 I’m currently working on gas field As aplanner engineer 
 - 🌱 I’m currently learning Machine learning with Tensorflow
 - 👯 I’m looking to collaborate on making real life projects 

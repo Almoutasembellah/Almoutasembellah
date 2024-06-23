@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Almoutasem bellah a junior Machine learning engineer
 - 🔭 I’m currently working on gas field As aplanner engineer 
-- 🌱 I’m currently learning Machine learning with Tensorflow
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on making real life projects 
 - 🤔 i like to discuss with others who have the same interists
 - 💬 Ask me about my repositories here 
